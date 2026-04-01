@@ -1,0 +1,5 @@
+node_modules/
+.env
+mygarage.db
+mygarage.db-shm
+mygarage.db-wal
